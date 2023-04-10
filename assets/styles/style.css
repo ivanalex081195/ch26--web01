@@ -6,6 +6,7 @@ body {
     color:beige;
     /* para cambiar el color de la letra (usamos ":" para ver ejemplos de colores) */
     padding: 20;
+   /*  borde superior, para que no este pegado arriba */
 }
 
 h1{
