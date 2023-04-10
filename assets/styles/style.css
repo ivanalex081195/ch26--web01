@@ -1,0 +1,14 @@
+body {
+    background-image: url("../img/papel-pintado-pared.jpg");
+    /* doble punto para regresar un nivel para ver la carpeta image */
+    font-family: sans-serif;
+    /* para cambiar la fuente */
+    color:beige;
+    /* para cambiar el color de la letra (usamos ":" para ver ejemplos de colores) */
+    padding: 20;
+}
+
+h1{
+    text-align: center;
+  /*   para alinear texto (usamos h1 para espesificar que queremos modificar) */
+}
